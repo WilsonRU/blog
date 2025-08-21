@@ -1,4 +1,4 @@
-base_url = "https://eiwblog.pages.dev/"
+base_url = "https://eiwblog.pages.dev"
 title = "Wilson Moura"
 default_language = "en"
 theme = "serene"
