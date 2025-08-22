@@ -24,11 +24,19 @@ copy = false
 comment = false
 reaction = false
 +++
+Hi! 👋
 
-Experienced full-stack developer (backend/frontend) with 7+ years of expertise in designing scalable, high-performance systems. Passionate about solving complex architecture and performance challenges, I specialize in building impactful applications from concept to completion.
+My name is Wilson and I’m a full-stack developer (backend/frontend) with 7+ years of expertise in designing scalable, 
+high-performance systems. Passionate about solving complex architecture and performance challenges.
 
 ## Education  
 
 **Centro Universitário União das Américas Descomplica**  
 Bachelor of Science in Information Systems (BSc IS)  
 *Maceió, Brazil* — *Expected graduation: Dec 2027*
+
+## Side Activities
+
+**PUGA** — PHP developers group from Alagoas, sharing knowledge and discussing trends.
+
+**Gobolinux** — Contributed to software packaging and dissemination by maintaining and updating critical application packages.
